@@ -1,0 +1,7 @@
+# Stuff
+
+Nothing!
+
+=> ../ Back to home
+
+=> ./myanimelist.gmi MyAnimeList

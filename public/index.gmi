@@ -12,4 +12,6 @@
 # Alexander Popov
 
 => ./contact.gmi Contacts
-=> ./posts Archive
+=> ./posts/ Archive
+
+=> ./stuff/ Stuff

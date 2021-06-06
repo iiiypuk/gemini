@@ -1,0 +1,51 @@
+# MyAnimeList
+
+=> ../ Back to home
+
+> Watching
+* Adachi to Shimamura [TV] [4/12]
+* Beelzebub [TV] [8/60]
+* Black Clover [TV] [122/170]
+* Yakusoku no Neverland 2nd Season [TV] [10/11]
+* Majo no Tabitabi [TV] [4/12]
+
+> Completed
+* Asu no Yoichi! [TV] [12/12]
+* Battle Programmer Shirase [TV] [15/15]
+* Btooom! [TV] [12/12]
+* Date A Live [TV] [12/12]
+* Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka [TV] [13/13]
+* Elfen Lied [TV] [13/13]
+* Gakusen Toshi Asterisk [TV] [12/12]
+* Gakusen Toshi Asterisk 2nd Season [TV] [12/12]
+* Gleipnir [TV] [13/13]
+* Gokujo.: Gokurakuin Joshikou Ryou Monogatari [TV] [12/12]
+* High School DxD [TV] [12/12]
+* High School DxD OVA [OVA] [2/2]
+* High School DxD Specials [Special] [6/6]
+* Highschool of the Dead [TV] [12/12]
+* Imouto Bitch ni Shiboraretai [OVA] [2/2]
+* K-On! [TV] [13/13]
+* K-On!! [TV] [26/26]
+* Kite Liberator [OVA] [1/1]
+* Kokoro Connect [TV] [13/13]
+* Log Horizon [TV] [25/25]
+* Next A-Class [ONA] [1/1]
+* No Game No Life [TV] [12/12]
+* No Game No Life Specials [Special] [6/6]
+* Saishuu Chikan Densha Next [OVA] [2/2]
+* Sankarea [TV] [12/12]
+* Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai [TV] [12/12]
+* Steins;Gate [TV] [24/24]
+* Suisei no Gargantia [TV] [13/13]
+* Suzumiya Haruhi no Yuuutsu [TV] [14/14]
+* Sword Art Online Watch Episode Video [TV] [25/25]
+* Sword Art Online II [TV] [24/24]
+* Tensei shitara Slime Datta Ken Watch Episode Video [TV] [24/24]
+* Tonari no Kaibutsu-kun [TV] [13/13]
+* Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui! [TV] [12/12]
+* Yahari Ore no Seishun Love Comedy wa Machigatteiru. [TV] [13/13]
+* Yakusoku no Neverland [TV] [12/12]
+
+> Dropped
+* Shinreigari [TV] [1/22]
