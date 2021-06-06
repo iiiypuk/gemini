@@ -1,0 +1,15 @@
+server {
+    listen 80;
+    listen [::]:80;
+
+    listen 443;
+    ssl on;
+    ssl_certificate /home/alex/_certbot/config/live/gemini.iiiypuk.me/fullchain.pem;
+    ssl_certificate_key /home/alex/_certbot/config/live/gemini.iiiypuk.me/privkey.pem;
+
+    server_name gemini.iiiypuk.me;
+
+    location / {
+        proxy_pass http://127.0.0.1:8080;
+    }
+}
