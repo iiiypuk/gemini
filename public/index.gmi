@@ -12,6 +12,13 @@
 # Alexander Popov
 
 => ./contact.gmi Contacts
-=> ./posts/ Archive
+
+## Статьи
+=> ./posts/ Все статьи
+
+## Заметки и записки
+=> ./notes/ Все заметки
 
 => ./stuff/ Stuff
+
+=> ./trash.gmi ~/
