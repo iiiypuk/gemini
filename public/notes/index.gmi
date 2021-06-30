@@ -1,5 +1,5 @@
 # Мелкие заметки
 
-Nothing!
-
 => ../ Back to home
+
+=> 2021/01-elementary-os-double-click.gmi Активация двойного клика в проводнике Elementary OS

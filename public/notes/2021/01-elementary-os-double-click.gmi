@@ -1,0 +1,8 @@
+# Активация двойного клива в проводнике Elementary OS
+
+=> ../ Back to home
+
+Команда
+```
+$ gsettings set io.elementary.files.preferences single-click false
+```
