@@ -3,3 +3,4 @@
 => ../ Back to home
 
 => 2021/01-elementary-os-double-click.gmi Активация двойного клика в проводнике Elementary OS
+=> 2021/02-git-push-all.gmi Отправка исходников в несколько репозиториев Git одной командой

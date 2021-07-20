@@ -1,0 +1,21 @@
+# Отправка исходников в несколько репозиториев Git одной командой
+
+=> ../ Back to home
+
+1. Создаем новый remote например all
+```
+git remote add "all" git@github.com:username/my-repo.git
+```
+
+2. Добавляем в него несколько адресов для пуша
+```
+git remote set-url --add --push "all" git@username/my-repo.git
+git remote set-url --add --push "all" git@bitbucket.org:username/my-repo.git
+```
+
+3. Чтобы запушить сразу в два репозитория выполняем
+```
+git push all
+```
+
+=> https://gist.github.com/oleglomako/eaacd8670bda3720a37de2c8acaf910e Thanks, oleglomako
