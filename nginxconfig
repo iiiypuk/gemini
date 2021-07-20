@@ -8,11 +8,8 @@ server {
 
     server_name gemini.iiiypuk.me;
 
-    location /.well-known/ {
-        root /home/alex/Gemini/Let\'s\ Encrypt/;
-    }
-
     location / {
         proxy_pass http://127.0.0.1:8080;
+        # root /home/alex/Gemini/lets_encrypt; # for certbot
     }
 }
