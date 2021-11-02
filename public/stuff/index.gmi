@@ -5,3 +5,4 @@ Nothing!
 => ../ Back to home
 
 => ./myanimelist.gmi MyAnimeList
+=> ./manga.gmi MyMangaList

@@ -22,3 +22,9 @@
 => ./stuff/ Stuff
 
 => ./trash.gmi ~/
+
+### other
+Git repo this site:
+```
+git@github.com:iiiypuk/gemini.git
+```
