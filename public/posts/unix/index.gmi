@@ -1,5 +1,6 @@
 # *nix notes
 
 => tmux.gmi Горячие клавиши tmux
+=> go_cross_build.gmi Кросс-компиляция в Golang
 
 => ../ Back to home

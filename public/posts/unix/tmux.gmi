@@ -27,4 +27,4 @@ Ctrl + b $
 Ctrl + b d
 ```
 
-=> ../ Back to home
+=> index.gmi Back to home
