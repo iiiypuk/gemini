@@ -1,1 +1,1 @@
-binary\agate --content .\public\ --addr 0.0.0.0:12701 --hostname localhost --lang en-US
+binary\agate --content .\public\ --addr 0.0.0.0:1965 --hostname localhost --lang en-US

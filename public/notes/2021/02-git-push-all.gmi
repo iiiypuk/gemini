@@ -1,7 +1,5 @@
 # Отправка исходников в несколько репозиториев Git одной командой
 
-=> ../ Back to home
-
 1. Создаем новый remote например all
 ```
 git remote add "all" git@github.com:username/my-repo.git
@@ -19,3 +17,5 @@ git push all
 ```
 
 => https://gist.github.com/oleglomako/eaacd8670bda3720a37de2c8acaf910e Thanks, oleglomako
+
+=> ../ Back to home
