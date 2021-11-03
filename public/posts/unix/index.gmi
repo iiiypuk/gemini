@@ -1,0 +1,5 @@
+# *nix notes
+
+=> tmux.gmi Горячие клавиши tmux
+
+=> ../ Back to home
