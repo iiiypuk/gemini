@@ -2,6 +2,7 @@
 
 => ../ Back to home
 
+=> 2021/04-wineguard-server.gmi Настраиваем WireGuard сервер
 => 2021/03-l33t.gmi Аббривеатуры и интернет сленг
 => 2021/02-git-push-all.gmi Отправка исходников в несколько репозиториев Git одной командой
 => 2021/01-elementary-os-double-click.gmi Активация двойного клика в проводнике Elementary OS
